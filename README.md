@@ -2,5 +2,5 @@
 
 A repository containing the analysis scripts used for our project on the local adaptation of the Western Palearctic barn owl - DOI: 
 
-Each directory contains its own README file that explains its purpose and contents.
+`0_VariantFiltration.slurm` was used to filter variants before all downstream analyses. Each directory contains its own README file that explains its purpose and contents.
 
